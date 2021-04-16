@@ -16,6 +16,6 @@ all the dependencies and running it locally by following below command
 
 Install all the dependecies, and run it locally by following below command
 
-### `cd Server`
+### `cd server`
 ### `npm i`
 ### `npm run start`
